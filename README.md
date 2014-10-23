@@ -21,4 +21,4 @@
   
     adb push bin/2048ai-jb /data/local/tm
     adb shell
-    /data/local/tmp/2048ai-jb
+    /data/local/tmp/2048ai-jb 1
