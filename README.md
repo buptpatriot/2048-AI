@@ -8,7 +8,7 @@
 ####编译(需要NDK)
     ./build
     
->在bin目录下生成可执行文件: 2048ai(ver<4.0), 2048ai-ics(4.0<=ver<4.1.2), 2048ai-jb(ver>=4.1.2)
+>在bin目录下生成可执行文件: 2048ai(ver < 4.0), 2048ai-ics(4.0 <= ver <4.1.2), 2048ai-jb(ver >= 4.1.2)
 
 ####运行
   启动手机上的[2048](http://www.wandoujia.com/apps/com.digiplex.game)游戏，将手机连接电脑。执行以下命令：
