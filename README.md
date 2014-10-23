@@ -1,6 +1,6 @@
 2048-AI
 =======
->一个C++小程序，运行在Android手机上，可以抓取游戏2048的运行画面，进行简单的图像处理，识别出当前的布局，并通过算法计算出最优的滑动方向，模拟滑动事件。
+>一个C++小程序，运行在Android手机上，可以抓取游戏2048的运行画面，进行简单的图像处理，识别出当前的布局，并通过算法计算出最优的滑动方向，模拟滑动事件，控制游戏运行。
 
 ![1](https://raw.githubusercontent.com/buptpatriot/2048-AI/master/screenshot/1.png)
 ![2](https://raw.githubusercontent.com/buptpatriot/2048-AI/master/screenshot/2.png)
